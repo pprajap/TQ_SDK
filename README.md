@@ -34,13 +34,6 @@ int main() {
 }
 ```
 
-
-## Contributing
-Thank you for your interest in contributing to the Terra Quantum SDK! Please follow the guidelines outlined in the CONTRIBUTING.md file.
-
-## License
-MIT
-
 ### Directory Structure
 
 Your directory structure should look like this:
